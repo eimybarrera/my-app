@@ -30,7 +30,7 @@ export default function App() {
         <View style={styles.smallBoxes}>
           <Text>G</Text>
         </View>
-      </View>
+      </View> 
 
       <View style={[styles.smallBoxes, styles.boxH]}>
         <Text>H</Text>
